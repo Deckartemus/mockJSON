@@ -1,0 +1,34 @@
+{
+'users': [
+      {
+        'id': 1,
+        'name': 'Marta Kunz',
+        'img': '',
+        'read': false,
+      },
+      {
+        'id': 2,
+        'name': 'Tim Timmers',
+        'img': '',
+        'read': true,
+      },
+      {
+        'id': 3,
+        'name': 'Jens Berg',
+        'img': '',
+        'read': true,
+      },
+      {
+        'id': 4,
+        'name': 'Jenn Berg',
+        'img': '',
+        'read': true,
+      },
+      {
+        'id': 5,
+        'name': 'Marko Reuz',
+        'img': '',
+        'read': true,
+      },
+    ],
+}
