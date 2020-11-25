@@ -16,7 +16,7 @@
             "messageid2": {
                "text": "I'm good! And you?",
                "from": "me"
-            },
+            }
          }
       },
    "user.id[2]": {
@@ -28,7 +28,7 @@
             "messageid2": {
                "text": "I'm good! And you?",
                "from": "them"
-            },
+            }
          }
       }
    }
