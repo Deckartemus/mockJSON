@@ -8,7 +8,7 @@
     ],
    "chats": {
       "user.id[1]": {
-         "user.id[2]" {
+         "user.id[2]": {
             "messageid1": {
                "text": "Hey, how are you?"
                "from": "them"
@@ -20,7 +20,7 @@
          }
       },
    "user.id[2]": {
-         "user.id[1]" {
+         "user.id[1]": {
             "messageid1": {
                "text": "Hey, how are you?"
                "from": "me"
